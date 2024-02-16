@@ -7,3 +7,4 @@
 - [다섯번째 회의](doc/progress/2024-02-05.md)
 - [여섯번째 회의](doc/progress/2024-02-08.md)
 - [일곱번째 회의](doc/progress/2024-02-13.md)
+- [여덟번째 회의](doc/progress/2024-02-16.md)
